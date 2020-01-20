@@ -1,0 +1,3 @@
+661,321 coordonnee de la boule 1
+675,365 coordonnee de la boule 2
+136,153 coordonnee de la boule 3
